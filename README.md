@@ -1,5 +1,5 @@
 <h1>Pushmint Landing Page</h1>
-<p>Pushmint as a product enables user to unleash the power of targeted & customized push notifications to drive quality traffic on web and mobile. This landing page is the entry point to the product journey.</p>
+<p>Pushmint as a product enables user to unleash the power of targeted & customized push notifications on to drive quality traffic on web and mobile browsers. This landing page is the entry point to the product journey.</p>
 <h3>Platforms used</h3>
 HTML, CSS, JS
 
