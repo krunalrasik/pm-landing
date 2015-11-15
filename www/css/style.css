@@ -10,7 +10,9 @@
     padding: 0 40px;
 }
 
-#demo, #services, #work, #team {padding-top: 4rem;}
+#demo, #how, #work, #team {
+    padding-top: 4rem;
+}
 
 
 #index-banner {
@@ -57,6 +59,12 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
+.text_h3 {font-weight: 100;}
+
+.text_h5 {font-weight: 300;}
+
+.span_h5 {color: #CC0000;}
+
 .span_h2 {font-weight: 300;color: #CC0000;}
 
 .text_b{color: #CC0000;}
@@ -72,7 +80,7 @@
 
 .card-content a:hover {color: #CC0000;}
 
-#work, #team{background: rgb(240, 240, 240);}
+#how, #team{background: rgb(240, 240, 240);}
 
 .text_pink{color:#EF9A9A;}
 
