@@ -46,6 +46,15 @@
     margin-top: 2px;
 }
 
+#demo .btn-large {
+    margin-top: 10px;
+}
+
+#demo .btn-icon {
+    margin-right: 15px;
+    vertical-align: middle;
+}
+
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
 .span_h2 {font-weight: 300;color: #CC0000;}
