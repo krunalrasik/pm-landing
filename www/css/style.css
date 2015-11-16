@@ -14,6 +14,20 @@
     padding-top: 4rem;
 }
 
+#goodies {
+    background: #CC0000;
+    color: white;
+    padding: 2rem 0;
+}
+
+#goodies a {
+    color: white;
+}
+
+#goodies i {
+    font-size: 4rem;
+}
+
 
 #index-banner {
     position: relative;
@@ -52,7 +66,11 @@
     margin-top: 10px;
 }
 
-#demo .btn-icon {
+#contact li {
+    margin-bottom: 10px;
+}
+
+.btn-icon {
     margin-right: 15px;
     vertical-align: middle;
 }
