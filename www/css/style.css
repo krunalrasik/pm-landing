@@ -87,6 +87,17 @@
 
 .text_b{color: #CC0000;}
 
+.stat-fact {
+    font-size: 15px;
+    line-height: 45px;
+    font-weight: 400;
+}
+
+.span_stat_fact {
+    font-weight: 400;
+    color: #CC0000;
+}
+
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
