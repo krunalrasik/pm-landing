@@ -10,7 +10,7 @@
     padding: 0 40px;
 }
 
-#demo, #how, #work, #team {
+#demo, #how, #moneitze, #team {
     padding-top: 4rem;
 }
 
@@ -339,4 +339,9 @@ nav a.button-collapse {
 
 footer.page-footer {
     margin-top: 0px !important;
+    padding-bottom: 20px;
+}
+
+footer .powered-by {
+    padding-top: 10px;
 }
